@@ -1,0 +1,16 @@
+C:\Users\ahmet\source\repos\revision_currency\revision_currency\bin\Debug\net9.0-windows\revision_currency.exe
+C:\Users\ahmet\source\repos\revision_currency\revision_currency\bin\Debug\net9.0-windows\revision_currency.deps.json
+C:\Users\ahmet\source\repos\revision_currency\revision_currency\bin\Debug\net9.0-windows\revision_currency.runtimeconfig.json
+C:\Users\ahmet\source\repos\revision_currency\revision_currency\bin\Debug\net9.0-windows\revision_currency.dll
+C:\Users\ahmet\source\repos\revision_currency\revision_currency\bin\Debug\net9.0-windows\revision_currency.pdb
+C:\Users\ahmet\source\repos\revision_currency\revision_currency\obj\Debug\net9.0-windows\revision_currency.Form1.resources
+C:\Users\ahmet\source\repos\revision_currency\revision_currency\obj\Debug\net9.0-windows\revision_currency.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\revision_currency\revision_currency\obj\Debug\net9.0-windows\revision_currency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\source\repos\revision_currency\revision_currency\obj\Debug\net9.0-windows\revision_currency.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\revision_currency\revision_currency\obj\Debug\net9.0-windows\revision_currency.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\revision_currency\revision_currency\obj\Debug\net9.0-windows\revision_currency.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\revision_currency\revision_currency\obj\Debug\net9.0-windows\revision_currency.dll
+C:\Users\ahmet\source\repos\revision_currency\revision_currency\obj\Debug\net9.0-windows\refint\revision_currency.dll
+C:\Users\ahmet\source\repos\revision_currency\revision_currency\obj\Debug\net9.0-windows\revision_currency.pdb
+C:\Users\ahmet\source\repos\revision_currency\revision_currency\obj\Debug\net9.0-windows\revision_currency.genruntimeconfig.cache
+C:\Users\ahmet\source\repos\revision_currency\revision_currency\obj\Debug\net9.0-windows\ref\revision_currency.dll
