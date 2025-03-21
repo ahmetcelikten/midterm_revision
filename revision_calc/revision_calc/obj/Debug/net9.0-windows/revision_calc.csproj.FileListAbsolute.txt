@@ -1,0 +1,16 @@
+C:\Users\ahmet\source\repos\revision_calc\revision_calc\obj\Debug\net9.0-windows\revision_calc.Form1.resources
+C:\Users\ahmet\source\repos\revision_calc\revision_calc\obj\Debug\net9.0-windows\revision_calc.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\revision_calc\revision_calc\obj\Debug\net9.0-windows\revision_calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\source\repos\revision_calc\revision_calc\obj\Debug\net9.0-windows\revision_calc.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\revision_calc\revision_calc\obj\Debug\net9.0-windows\revision_calc.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\revision_calc\revision_calc\obj\Debug\net9.0-windows\revision_calc.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\revision_calc\revision_calc\bin\Debug\net9.0-windows\revision_calc.exe
+C:\Users\ahmet\source\repos\revision_calc\revision_calc\bin\Debug\net9.0-windows\revision_calc.deps.json
+C:\Users\ahmet\source\repos\revision_calc\revision_calc\bin\Debug\net9.0-windows\revision_calc.runtimeconfig.json
+C:\Users\ahmet\source\repos\revision_calc\revision_calc\bin\Debug\net9.0-windows\revision_calc.dll
+C:\Users\ahmet\source\repos\revision_calc\revision_calc\bin\Debug\net9.0-windows\revision_calc.pdb
+C:\Users\ahmet\source\repos\revision_calc\revision_calc\obj\Debug\net9.0-windows\revision_calc.dll
+C:\Users\ahmet\source\repos\revision_calc\revision_calc\obj\Debug\net9.0-windows\refint\revision_calc.dll
+C:\Users\ahmet\source\repos\revision_calc\revision_calc\obj\Debug\net9.0-windows\revision_calc.pdb
+C:\Users\ahmet\source\repos\revision_calc\revision_calc\obj\Debug\net9.0-windows\revision_calc.genruntimeconfig.cache
+C:\Users\ahmet\source\repos\revision_calc\revision_calc\obj\Debug\net9.0-windows\ref\revision_calc.dll
