@@ -1,0 +1,10 @@
+C:\Users\ahmet\source\repos\revision_Hscgorllbar\revision_Hscgorllbar\obj\Debug\revision_Hscgorllbar.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\revision_Hscgorllbar\revision_Hscgorllbar\obj\Debug\revision_Hscgorllbar.Form1.resources
+C:\Users\ahmet\source\repos\revision_Hscgorllbar\revision_Hscgorllbar\obj\Debug\revision_Hscgorllbar.Properties.Resources.resources
+C:\Users\ahmet\source\repos\revision_Hscgorllbar\revision_Hscgorllbar\obj\Debug\revision_Hscgorllbar.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\revision_Hscgorllbar\revision_Hscgorllbar\obj\Debug\revision_Hscgorllbar.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\revision_Hscgorllbar\revision_Hscgorllbar\bin\Debug\revision_Hscgorllbar.exe.config
+C:\Users\ahmet\source\repos\revision_Hscgorllbar\revision_Hscgorllbar\bin\Debug\revision_Hscgorllbar.exe
+C:\Users\ahmet\source\repos\revision_Hscgorllbar\revision_Hscgorllbar\bin\Debug\revision_Hscgorllbar.pdb
+C:\Users\ahmet\source\repos\revision_Hscgorllbar\revision_Hscgorllbar\obj\Debug\revision_Hscgorllbar.exe
+C:\Users\ahmet\source\repos\revision_Hscgorllbar\revision_Hscgorllbar\obj\Debug\revision_Hscgorllbar.pdb
