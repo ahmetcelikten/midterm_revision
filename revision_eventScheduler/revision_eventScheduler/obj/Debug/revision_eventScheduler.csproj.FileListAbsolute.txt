@@ -1,0 +1,10 @@
+C:\Users\ahmet\source\repos\revision_eventScheduler\revision_eventScheduler\obj\Debug\revision_eventScheduler.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\revision_eventScheduler\revision_eventScheduler\obj\Debug\revision_eventScheduler.Form1.resources
+C:\Users\ahmet\source\repos\revision_eventScheduler\revision_eventScheduler\obj\Debug\revision_eventScheduler.Properties.Resources.resources
+C:\Users\ahmet\source\repos\revision_eventScheduler\revision_eventScheduler\obj\Debug\revision_eventScheduler.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\revision_eventScheduler\revision_eventScheduler\obj\Debug\revision_eventScheduler.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\revision_eventScheduler\revision_eventScheduler\bin\Debug\revision_eventScheduler.exe.config
+C:\Users\ahmet\source\repos\revision_eventScheduler\revision_eventScheduler\bin\Debug\revision_eventScheduler.exe
+C:\Users\ahmet\source\repos\revision_eventScheduler\revision_eventScheduler\bin\Debug\revision_eventScheduler.pdb
+C:\Users\ahmet\source\repos\revision_eventScheduler\revision_eventScheduler\obj\Debug\revision_eventScheduler.exe
+C:\Users\ahmet\source\repos\revision_eventScheduler\revision_eventScheduler\obj\Debug\revision_eventScheduler.pdb
