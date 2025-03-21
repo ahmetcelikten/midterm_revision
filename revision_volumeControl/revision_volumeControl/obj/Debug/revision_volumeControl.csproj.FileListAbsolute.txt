@@ -1,0 +1,15 @@
+C:\Users\ahmet\source\repos\revision_volumeControl\revision_volumeControl\obj\Debug\revision_volumeControl.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\revision_volumeControl\revision_volumeControl\obj\Debug\revision_volumeControl.Form1.resources
+C:\Users\ahmet\source\repos\revision_volumeControl\revision_volumeControl\obj\Debug\revision_volumeControl.Properties.Resources.resources
+C:\Users\ahmet\source\repos\revision_volumeControl\revision_volumeControl\obj\Debug\revision_volumeControl.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\revision_volumeControl\revision_volumeControl\obj\Debug\revision_volumeControl.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\revision_volumeControl\revision_volumeControl\bin\Debug\revision_volumeControl.exe.config
+C:\Users\ahmet\source\repos\revision_volumeControl\revision_volumeControl\bin\Debug\revision_volumeControl.exe
+C:\Users\ahmet\source\repos\revision_volumeControl\revision_volumeControl\bin\Debug\revision_volumeControl.pdb
+C:\Users\ahmet\source\repos\revision_volumeControl\revision_volumeControl\obj\Debug\revision_volumeControl.exe
+C:\Users\ahmet\source\repos\revision_volumeControl\revision_volumeControl\obj\Debug\revision_volumeControl.pdb
+C:\Users\ahmet\source\repos\revision_volumeControl\revision_volumeControl\bin\Debug\Interop.WMPLib.dll
+C:\Users\ahmet\source\repos\revision_volumeControl\revision_volumeControl\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ahmet\source\repos\revision_volumeControl\revision_volumeControl\obj\Debug\Interop.WMPLib.dll
+C:\Users\ahmet\source\repos\revision_volumeControl\revision_volumeControl\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ahmet\source\repos\revision_volumeControl\revision_volumeControl\obj\Debug\revision_volumeControl.csproj.ResolveComReference.cache
